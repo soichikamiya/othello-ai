@@ -10,3 +10,6 @@ http://othello-ai.s3-website-ap-northeast-1.amazonaws.com/index.html
 このリクエストに対して、
 おける場所のなかから１つ決めて、そのindexを返すと
 そこに打ってくれます。
+
+## Thanks
+https://github.com/kana/othello-js

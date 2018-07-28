@@ -1,4 +1,5 @@
 # othello-ai
+AIを作ってみるワークショップです。
 
 ## 対戦用URL
 http://othello-ai.s3-website-ap-northeast-1.amazonaws.com/index.html

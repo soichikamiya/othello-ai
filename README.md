@@ -1,6 +1,6 @@
 # オセロAIの対戦を行う手順
 １．Githubのトップ画面の画面右上にある『Fork』ボタンを押下して自身のGithub上にコピーを作成します。<br>
-　※トップ画面のURLは『https://github.com/toit/othello-ai』<br>
+　※トップ画面のURLは　https://github.com/toit/othello-ai<br>
 　※（アカウント名）/othello-ai　というブランチができます<br>
 ２．新規のAWSCloud9を立ち上げ、手順１でコピーしたリポジトリをcloneします<br>
 　※立ち上げたCloud9上でgit clone (リポジトリ名)　を入力します<br>

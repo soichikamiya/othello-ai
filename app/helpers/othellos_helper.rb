@@ -1,0 +1,2 @@
+module OthellosHelper
+end
